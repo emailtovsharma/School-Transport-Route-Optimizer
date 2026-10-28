@@ -1,0 +1,8 @@
+# Confidential files
+*Data_location*.xlsx
+*Student*.xlsx
+
+# Python & Jupyter cache
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
